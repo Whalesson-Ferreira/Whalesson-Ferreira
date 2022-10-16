@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Whalesson-Ferreira
+- 👋 Hi, I’m Whalesson Ferreira
 - 👀 I’m interested in developing applications using JavaScript.
 - 🌱 I’m currently learning React Native, Node and React.
 
